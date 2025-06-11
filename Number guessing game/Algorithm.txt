@@ -9,3 +9,4 @@ start while loop:
          print too high
     if less:
         print too small
+
