@@ -1,0 +1,11 @@
+1. Generate a random number
+2. start while loop:
+3.      take a number as input
+4.      compare this with generated number
+5.      if same:
+6.          print congratulations
+7.          break
+8.      if greater:
+9.          print too high
+10.     if less:
+11.         print too small
